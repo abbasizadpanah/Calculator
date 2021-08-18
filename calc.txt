@@ -15,5 +15,5 @@ public mul (int a, int b)
 
 public div (int a, int b)
 {
-	int c = a / b;
+	int c = a \ b;
 }
